@@ -10,7 +10,7 @@ int main() {
     SetConsoleOutputCP(1251);
 
     double x_start = 2.0;
-    double x_end = 3.0;
+    double x_end = 34.0;
     double step = 4;
 
     double x = x_start;
