@@ -11,7 +11,7 @@ int main() {
 
     double x_start = 2.0;
     double x_end = 3.0;
-    double step = 1;
+    double step = 4;
 
     double x = x_start;
 
