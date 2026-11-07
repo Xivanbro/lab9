@@ -16,7 +16,7 @@ int main() {
     double x = x_start;
 
     while (x <= x_end) {
-        double y = log(pow(x, 4)) + pow(x, 4) + 2;
+        double y = log(pow(x, 5)) + pow(x, 4) + 2;
         cout << setw(10) << x << setw(20) << y << endl;
         x += step;
     }
